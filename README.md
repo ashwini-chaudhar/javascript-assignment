@@ -3,4 +3,4 @@
 ## Demo
 **Note: For the best output, please open it in Laptop or Desktop**
 
-https://zesty-app.netlify.app/
+https://java-script-assignment.netlify.app/
