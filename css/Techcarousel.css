@@ -1,0 +1,123 @@
+ .column{
+	 padding-right: 0px;
+    padding-left: 0px;
+ }
+ .round-small
+ { 
+ width: 200px ;
+ height: 150px ;
+ padding:10px ;
+ 
+ } 
+ @media screen and (max-width: 600px) and (min-width: 300px) {
+  .round-small
+ { 
+ width: 100px ;
+ height: 75px ;
+ padding:10px ;
+ 
+ } 
+}
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+  .round-small
+ { 
+ width: 170px ;
+ height: 120px ;
+ padding:15px ;
+ 
+ } 
+}
+
+
+ .carousel{
+	 cursor:pointer;
+ }
+ .row .carousel-images:hover{
+	 z-index: 1;
+	 transform: scale(1.25);
+	 
+ }
+ .carousel-control-next{
+	left: 26px !important;
+ }
+ .carousel-control-prev{
+	left: 131px !important; 
+ }
+ @media screen and (max-width: 600px) and (min-width: 300px){
+  .carousel-control-next{
+	left: 15px !important;
+ }
+ .carousel-control-prev{
+	left: 100px !important; 
+ }
+}
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+  .carousel-control-next{
+	left: 20px !important;
+ }
+ .carousel-control-prev{
+	left: 80px !important; 
+ }
+}
+
+ 
+ .carousel-images
+ {
+	 padding-right: 0px;
+    padding-left: 0px;
+ }
+ .text-carousel{
+	 bottom: 74px;
+ }
+ .text-carousel h1{
+	 font-size: 2.00rem;
+	 left: 17%;
+	 
+ }
+ 
+ .text-carousel h2{
+	 font-size: 2.00rem;
+	 left: 17%;
+	 margin-bottom: -1.5rem;
+	 margin-right: 1.50rem;
+ }
+ .text-carousel h3{
+	 font-size: 2.00rem;
+	 left: 17%;
+	 margin-left: 1rem;
+ }
+ .text-carousel h4{
+	 font-size: 2.00rem;
+	 left: 17%;
+	  margin-bottom: -2.5rem;
+	 
+ }
+ @media screen and (max-width: 600px) and (min-width: 300px) {
+ .text-carousel h1{
+	 font-size: 1.5rem;
+	 left: 10%;
+	margin-right: 1.0rem;
+	 margin-bottom: -1.5rem;
+ }
+ .text-carousel h2{
+	 font-size: 1.5rem;
+	 left: 17%;
+	 margin-bottom: -1.5rem;
+	 margin-right: 1.0rem;
+ }
+ .text-carousel h3{
+	 font-size: 1.5rem;
+	 left: 17%;
+	 margin-left: 1rem;
+ }
+ .text-carousel h4{
+	 font-size: 1.5rem;
+	 left: 17%;
+	  margin-bottom: -2.5rem;
+	 
+ }
+ 
+  
+}
+ 
+ 

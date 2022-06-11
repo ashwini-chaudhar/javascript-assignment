@@ -1,0 +1,43 @@
+ .form-lable {
+	 
+	color: #878787;
+	 padding: 12px ;
+    margin-bottom: .1rem;
+	text-align: right;
+	box-sizing: border-box;
+	font-size: 15px;
+font-weight: 400;
+  margin: 0px;
+ margin-right: auto;
+ float:right;
+ font-style: bold !important;
+ }
+ 
+ .form1{
+	 margin-bottom: 0.25rem;
+ }
+ .align
+ {
+	 padding:0px;
+ }
+  .form-align
+  {
+	  padding-right: 35px;
+    padding-left: 10px;
+	
+}
+ 
+
+.form-text {
+	font-size: calc(18px);
+	border-radius: 0rem;
+	height: calc(1.5em + 0.50rem + 2px);
+}
+.table-button{
+	border-radius:0rem;
+}
+.btn-primary-btn{
+	background-color:#E9E9E9;
+	color: #878787;
+}
+

@@ -1,0 +1,31 @@
+    
+	.table-main
+{
+	color: #132B4B;
+   width:100%;
+    border-color: #dee2e6;
+	padding: .3rem;
+	box-sizing: border-box;
+	border-collapse: collapse;
+	text-indent: initial;
+    border-spacing: initial;
+	font-size: calc(15px);
+	margin-right: 0px;
+	float:right;
+	text-align: center;
+	}
+	.thead-light1{
+	 background-color: #EAE8E9;
+	 
+	}
+	.table thead th{
+		color:#0B1020 ;
+		font-style:bold !important;
+	}
+	.table tbody tr{
+		color: #0B1020;
+		font-family:Verdana, sans-serif;
+		font-style:bold !important;
+
+	}
+	

@@ -1,0 +1,19 @@
+#logo{
+margin-top: 1%;
+font-size: 1.8em;
+font-weight: 700;
+margin-left: 13%;
+height:110px;
+width: 200px;
+position:absolute;
+left:0;
+top:0;
+
+}
+.logo-persistent
+{
+	margin:25px;
+}
+.logo{
+	width:100%;
+}
